@@ -69,4 +69,15 @@ PRODUCT_COPY_FILES := \
     external/moztt/SourceSansPro-1.038/SourceSansPro-Regular.ttf:system/fonts/SourceSansPro-Regular.ttf \
     external/moztt/SourceSansPro-1.038/SourceSansPro-Semibold.ttf:system/fonts/SourceSansPro-Semibold.ttf \
     external/moztt/SourceSansPro-1.038/SourceSansPro-SemiboldIt.ttf:system/fonts/SourceSansPro-SemiboldIt.ttf \
-
+    external/moztt/Lohit-20130130/Lohit-Assamese.ttf:system/fonts/Lohit-Assamese.ttf \
+    external/moztt/Lohit-20130130/Lohit-Bengali.ttf:system/fonts/Lohit-Bengali.ttf \
+    external/moztt/Lohit-20130130/Lohit-Devanagari.ttf:system/fonts/Lohit-Devanagari.ttf \
+    external/moztt/Lohit-20130130/Lohit-Gujarati.ttf:system/fonts/Lohit-Gujarati.ttf \
+    external/moztt/Lohit-20130130/Lohit-Kannada.ttf:system/fonts/Lohit-Kannada.ttf \
+    external/moztt/Lohit-20130130/Lohit-Malayalam.ttf:system/fonts/Lohit-Malayalam.ttf \
+    external/moztt/Lohit-20130130/Lohit-Marathi.ttf:system/fonts/Lohit-Marathi.ttf \
+    external/moztt/Lohit-20130130/Lohit-Nepali.ttf:system/fonts/Lohit-Nepali.ttf \
+    external/moztt/Lohit-20130130/Lohit-Oriya.ttf:system/fonts/Lohit-Oriya.ttf \
+    external/moztt/Lohit-20130130/Lohit-Punjabi.ttf:system/fonts/Lohit-Punjabi.ttf \
+    external/moztt/Lohit-20130130/Lohit-Tamil.ttf:system/fonts/Lohit-Tamil.ttf \
+    external/moztt/Lohit-20130130/Lohit-Telugu.ttf:system/fonts/Lohit-Telugu.ttf \
