@@ -26,10 +26,10 @@ PRODUCT_COPY_FILES := \
 # MozTT fonts
 PRODUCT_COPY_FILES := \
     $(PRODUCT_COPY_FILES) \
-    external/moztt/CharisSIL-4.112/CharisSIL-B.ttf:system/fonts/CharisSIL-B.ttf \
-    external/moztt/CharisSIL-4.112/CharisSIL-BI.ttf:system/fonts/CharisSIL-BI.ttf \
-    external/moztt/CharisSIL-4.112/CharisSIL-I.ttf:system/fonts/CharisSIL-I.ttf \
-    external/moztt/CharisSIL-4.112/CharisSIL-R.ttf:system/fonts/CharisSIL-R.ttf \
+    external/moztt/CharisSILCompact-4.110/CharisSILCompact-B.ttf:system/fonts/CharisSILCompact-B.ttf \
+    external/moztt/CharisSILCompact-4.110/CharisSILCompact-BI.ttf:system/fonts/CharisSILCompact-BI.ttf \
+    external/moztt/CharisSILCompact-4.110/CharisSILCompact-I.ttf:system/fonts/CharisSILCompact-I.ttf \
+    external/moztt/CharisSILCompact-4.110/CharisSILCompact-R.ttf:system/fonts/CharisSILCompact-R.ttf \
     external/moztt/MozTT/MozTT-Bold.ttf:system/fonts/MozTT-Bold.ttf \
     external/moztt/MozTT/MozTT-Light.ttf:system/fonts/MozTT-Light.ttf \
     external/moztt/MozTT/MozTT-Medium.ttf:system/fonts/MozTT-Medium.ttf \
