@@ -26,6 +26,10 @@ PRODUCT_COPY_FILES := \
     frameworks/base/data/fonts/DroidSerif-Bold.ttf:system/fonts/DroidSerif-Bold.ttf \
     frameworks/base/data/fonts/DroidSerif-Italic.ttf:system/fonts/DroidSerif-Italic.ttf \
     frameworks/base/data/fonts/DroidSerif-BoldItalic.ttf:system/fonts/DroidSerif-BoldItalic.ttf \
+    $(NULL)
+
+PRODUCT_PACKAGES := \
+    DroidSansFallback.ttf
 
 # MozTT fonts
 PRODUCT_COPY_FILES := \
@@ -72,4 +76,4 @@ PRODUCT_COPY_FILES := \
     external/moztt/SourceSansPro-1.038/SourceSansPro-Regular.ttf:system/fonts/SourceSansPro-Regular.ttf \
     external/moztt/SourceSansPro-1.038/SourceSansPro-Semibold.ttf:system/fonts/SourceSansPro-Semibold.ttf \
     external/moztt/SourceSansPro-1.038/SourceSansPro-SemiboldIt.ttf:system/fonts/SourceSansPro-SemiboldIt.ttf \
-
+    $(NULL)
