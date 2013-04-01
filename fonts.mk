@@ -34,10 +34,9 @@ PRODUCT_COPY_FILES := \
     external/moztt/CharisSILCompact-4.110/CharisSILCompact-BI.ttf:system/fonts/CharisSILCompact-BI.ttf \
     external/moztt/CharisSILCompact-4.110/CharisSILCompact-I.ttf:system/fonts/CharisSILCompact-I.ttf \
     external/moztt/CharisSILCompact-4.110/CharisSILCompact-R.ttf:system/fonts/CharisSILCompact-R.ttf \
-    external/moztt/MozTT/MozTT-Bold.ttf:system/fonts/MozTT-Bold.ttf \
-    external/moztt/MozTT/MozTT-Light.ttf:system/fonts/MozTT-Light.ttf \
-    external/moztt/MozTT/MozTT-Medium.ttf:system/fonts/MozTT-Medium.ttf \
-    external/moztt/MozTT/MozTT-Regular.ttf:system/fonts/MozTT-Regular.ttf \
+    external/moztt/FeuraSans-TTF-130325/FeuraSans-Bold.ttf:system/fonts/FeuraSans-Bold.ttf \
+    external/moztt/FeuraSans-TTF-130325/FeuraSans-Light.ttf:system/fonts/FeuraSans-Light.ttf \
+    external/moztt/FeuraSans-TTF-130325/FeuraSans-Regular.ttf:system/fonts/FeuraSans-Regular.ttf \
     external/moztt/Roboto-20120823/Roboto-Black.ttf:system/fonts/Roboto-Black.ttf \
     external/moztt/Roboto-20120823/Roboto-BlackItalic.ttf:system/fonts/Roboto-BlackItalic.ttf \
     external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
