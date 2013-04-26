@@ -15,7 +15,7 @@
 # Warning: this is actually a product definition, to be inherited from
 
 # Android fonts
-PRODUCT_COPY_FILES := \
+PRODUCT_COPY_FILES += \
     frameworks/base/data/fonts/DroidNaskh-Regular.ttf:system/fonts/DroidNaskh-Regular.ttf \
     frameworks/base/data/fonts/DroidSansHebrew-Regular.ttf:system/fonts/DroidSansHebrew-Regular.ttf \
     frameworks/base/data/fonts/DroidSansHebrew-Bold.ttf:system/fonts/DroidSansHebrew-Bold.ttf \
@@ -28,12 +28,11 @@ PRODUCT_COPY_FILES := \
     frameworks/base/data/fonts/DroidSerif-BoldItalic.ttf:system/fonts/DroidSerif-BoldItalic.ttf \
     $(NULL)
 
-PRODUCT_PACKAGES := \
+PRODUCT_PACKAGES += \
     DroidSansFallback.ttf
 
 # MozTT fonts
-PRODUCT_COPY_FILES := \
-    $(PRODUCT_COPY_FILES) \
+PRODUCT_COPY_FILES += \
     external/moztt/CharisSILCompact-4.110/CharisSILCompact-B.ttf:system/fonts/CharisSILCompact-B.ttf \
     external/moztt/CharisSILCompact-4.110/CharisSILCompact-BI.ttf:system/fonts/CharisSILCompact-BI.ttf \
     external/moztt/CharisSILCompact-4.110/CharisSILCompact-I.ttf:system/fonts/CharisSILCompact-I.ttf \
