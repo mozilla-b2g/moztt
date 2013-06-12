@@ -33,14 +33,20 @@ PRODUCT_PACKAGES += \
 
 # MozTT fonts
 PRODUCT_COPY_FILES += \
-    external/moztt/CharisSILCompact-4.110/CharisSILCompact-B.ttf:system/fonts/CharisSILCompact-B.ttf \
-    external/moztt/CharisSILCompact-4.110/CharisSILCompact-BI.ttf:system/fonts/CharisSILCompact-BI.ttf \
-    external/moztt/CharisSILCompact-4.110/CharisSILCompact-I.ttf:system/fonts/CharisSILCompact-I.ttf \
-    external/moztt/CharisSILCompact-4.110/CharisSILCompact-R.ttf:system/fonts/CharisSILCompact-R.ttf \
-    external/moztt/FeuraSans-1.0/FeuraSans-Bold.ttf:system/fonts/FeuraSans-Bold.ttf \
-    external/moztt/FeuraSans-1.0/FeuraSans-Light.ttf:system/fonts/FeuraSans-Light.ttf \
-    external/moztt/FeuraSans-1.0/FeuraSans-Medium.ttf:system/fonts/FeuraSans-Medium.ttf \
-    external/moztt/FeuraSans-1.0/FeuraSans-Regular.ttf:system/fonts/FeuraSans-Regular.ttf \
+    external/moztt/CharisSILCompact-4.114/CharisSILCompact-B.ttf:system/fonts/CharisSILCompact-B.ttf \
+    external/moztt/CharisSILCompact-4.114/CharisSILCompact-BI.ttf:system/fonts/CharisSILCompact-BI.ttf \
+    external/moztt/CharisSILCompact-4.114/CharisSILCompact-I.ttf:system/fonts/CharisSILCompact-I.ttf \
+    external/moztt/CharisSILCompact-4.114/CharisSILCompact-R.ttf:system/fonts/CharisSILCompact-R.ttf \
+    external/moztt/FiraMono-2.001/FiraMono-Bold.ttf:system/fonts/FiraMono-Bold.ttf \
+    external/moztt/FiraMono-2.001/FiraMono-Regular.ttf:system/fonts/FiraMono-Regular.ttf \
+    external/moztt/FiraSans-2.001/FiraSans-Bold.ttf:system/fonts/FiraSans-Bold.ttf \
+    external/moztt/FiraSans-2.001/FiraSans-BoldItalic.ttf:system/fonts/FiraSans-BoldItalic.ttf \
+    external/moztt/FiraSans-2.001/FiraSans-Light.ttf:system/fonts/FiraSans-Light.ttf \
+    external/moztt/FiraSans-2.001/FiraSans-LightItalic.ttf:system/fonts/FiraSans-LightItalic.ttf \
+    external/moztt/FiraSans-2.001/FiraSans-Medium.ttf:system/fonts/FiraSans-Medium.ttf \
+    external/moztt/FiraSans-2.001/FiraSans-MediumItalic.ttf:system/fonts/FiraSans-MediumItalic.ttf \
+    external/moztt/FiraSans-2.001/FiraSans-Regular.ttf:system/fonts/FiraSans-Regular.ttf \
+    external/moztt/FiraSans-2.001/FiraSans-RegularItalic.ttf:system/fonts/FiraSans-RegularItalic.ttf \
     external/moztt/Roboto-20120823/Roboto-Black.ttf:system/fonts/Roboto-Black.ttf \
     external/moztt/Roboto-20120823/Roboto-BlackItalic.ttf:system/fonts/Roboto-BlackItalic.ttf \
     external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
@@ -57,23 +63,4 @@ PRODUCT_COPY_FILES += \
     external/moztt/Roboto-20120823/Roboto-Regular.ttf:system/fonts/Roboto-Regular.ttf \
     external/moztt/Roboto-20120823/Roboto-Thin.ttf:system/fonts/Roboto-Thin.ttf \
     external/moztt/Roboto-20120823/Roboto-ThinItalic.ttf:system/fonts/Roboto-ThinItalic.ttf \
-    external/moztt/SourceCodePro-1.017/SourceCodePro-Black.ttf:system/fonts/SourceCodePro-Black.ttf \
-    external/moztt/SourceCodePro-1.017/SourceCodePro-Bold.ttf:system/fonts/SourceCodePro-Bold.ttf \
-    external/moztt/SourceCodePro-1.017/SourceCodePro-ExtraLight.ttf:system/fonts/SourceCodePro-ExtraLight.ttf \
-    external/moztt/SourceCodePro-1.017/SourceCodePro-Light.ttf:system/fonts/SourceCodePro-Light.ttf \
-    external/moztt/SourceCodePro-1.017/SourceCodePro-Medium.ttf:system/fonts/SourceCodePro-Medium.ttf \
-    external/moztt/SourceCodePro-1.017/SourceCodePro-Regular.ttf:system/fonts/SourceCodePro-Regular.ttf \
-    external/moztt/SourceCodePro-1.017/SourceCodePro-Semibold.ttf:system/fonts/SourceCodePro-Semibold.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Black.ttf:system/fonts/SourceSansPro-Black.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-BlackIt.ttf:system/fonts/SourceSansPro-BlackIt.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Bold.ttf:system/fonts/SourceSansPro-Bold.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-BoldIt.ttf:system/fonts/SourceSansPro-BoldIt.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-ExtraLight.ttf:system/fonts/SourceSansPro-ExtraLight.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-ExtraLightIt.ttf:system/fonts/SourceSansPro-ExtraLightIt.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-It.ttf:system/fonts/SourceSansPro-It.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Light.ttf:system/fonts/SourceSansPro-Light.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-LightIt.ttf:system/fonts/SourceSansPro-LightIt.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Regular.ttf:system/fonts/SourceSansPro-Regular.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Semibold.ttf:system/fonts/SourceSansPro-Semibold.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-SemiboldIt.ttf:system/fonts/SourceSansPro-SemiboldIt.ttf \
     $(NULL)
