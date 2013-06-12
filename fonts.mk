@@ -33,10 +33,10 @@ PRODUCT_PACKAGES += \
 
 # MozTT fonts
 PRODUCT_COPY_FILES += \
-    external/moztt/CharisSILCompact-4.110/CharisSILCompact-B.ttf:system/fonts/CharisSILCompact-B.ttf \
-    external/moztt/CharisSILCompact-4.110/CharisSILCompact-BI.ttf:system/fonts/CharisSILCompact-BI.ttf \
-    external/moztt/CharisSILCompact-4.110/CharisSILCompact-I.ttf:system/fonts/CharisSILCompact-I.ttf \
-    external/moztt/CharisSILCompact-4.110/CharisSILCompact-R.ttf:system/fonts/CharisSILCompact-R.ttf \
+    external/moztt/CharisSILCompact-4.114/CharisSILCompact-B.ttf:system/fonts/CharisSILCompact-B.ttf \
+    external/moztt/CharisSILCompact-4.114/CharisSILCompact-BI.ttf:system/fonts/CharisSILCompact-BI.ttf \
+    external/moztt/CharisSILCompact-4.114/CharisSILCompact-I.ttf:system/fonts/CharisSILCompact-I.ttf \
+    external/moztt/CharisSILCompact-4.114/CharisSILCompact-R.ttf:system/fonts/CharisSILCompact-R.ttf \
     external/moztt/FeuraSans-1.0/FeuraSans-Bold.ttf:system/fonts/FeuraSans-Bold.ttf \
     external/moztt/FeuraSans-1.0/FeuraSans-Light.ttf:system/fonts/FeuraSans-Light.ttf \
     external/moztt/FeuraSans-1.0/FeuraSans-Medium.ttf:system/fonts/FeuraSans-Medium.ttf \
