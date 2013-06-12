@@ -1,5 +1,5 @@
 README
-Charis SIL Release 4.110
+Charis SIL
 ========================
 
 Thank you for your interest in the Charis SIL fonts.
@@ -17,18 +17,6 @@ See the FONTLOG for information on this and previous releases.
 See the website (http://scripts.sil.org/CharisSILfont) documentation or the 
 Charis SIL FAQ (http://scripts.sil.org/ComplexRomanFontFAQ) for frequently
 asked questions and their answers.
-
-TYPETUNER
-08 Mar 2013
-=========
-
-This package contains a TypeTuned version of the Charis SIL fonts.
-
-The TypeTuner settings file used to generate the enclosed font
-is included in the package as CharisSIL-feat_set_tuned.xml.
-By inspecting this file with a text editor you can determine 
-which alternate behaviors have been enabled.
-
 
 TIPS
 ====
@@ -71,15 +59,15 @@ keyboard, and to access the full Unicode range, we suggest you use
 gucharmap, kcharselect on Ubuntu or similar software.
 
 Another method of entering some symbols is provided by a few applications such
-as Adobe InDesign or OpenOffice.org. They can display a glyph palette or input
+as Adobe InDesign or LibreOffice.org. They can display a glyph palette or input
 dialog that shows all the glyphs (symbols) in a font and allow you to enter
 them by clicking on the glyph you want.
 
 Rendering:
-This font is designed to work with any of three advanced font technologies, 
-Graphite, AAT or OpenType. To take advantage of the advanced typographic 
+This font is designed to work with any of two advanced font technologies, 
+Graphite or OpenType. To take advantage of the advanced typographic 
 capabilities of this font, you must be using applications that provide an
-adequate level of support for Graphite, AAT or OpenType. See "Applications
+adequate level of support for Graphite or OpenType. See "Applications
 that provide an adequate level of support for SIL Unicode Roman fonts" 
 (http://scripts.sil.org/Complex_AdLvSup).
 

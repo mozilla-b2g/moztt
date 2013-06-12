@@ -79,11 +79,17 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-08 Mar 2013 (SIL TypeTuner) Tuned version of Charis SIL version 4.110
+10 June 2013 (SIL TypeTuner) Tuned version of Charis SIL version 4.114
 - Tuned and delivered by SIL TypeTuner 
-(http://scripts.sil.org/ttw/fonts2go.cgi).
 - See included xml file for details of feature changes.
 
+10 June 2013 (SIL NRSI team) Charis SIL version 4.114
+- optimized Graphite code for faster processing of plain ASCII text
+
+1 August 2012 (SIL NRSI team) Charis SIL version 4.112
+- Changed Graphite feature identifiers from integers to 4-character 
+  alphanumeric tags (no other changes)
+  
 12 September 2011 (SIL NRSI team) Charis SIL version 4.110
 - Removed the VDMX table
 - Changed version number (using ttfsetver)
