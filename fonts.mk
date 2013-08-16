@@ -64,16 +64,16 @@ PRODUCT_COPY_FILES += \
     external/moztt/SourceCodePro-1.017/SourceCodePro-Medium.ttf:system/fonts/SourceCodePro-Medium.ttf \
     external/moztt/SourceCodePro-1.017/SourceCodePro-Regular.ttf:system/fonts/SourceCodePro-Regular.ttf \
     external/moztt/SourceCodePro-1.017/SourceCodePro-Semibold.ttf:system/fonts/SourceCodePro-Semibold.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Black.ttf:system/fonts/SourceSansPro-Black.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-BlackIt.ttf:system/fonts/SourceSansPro-BlackIt.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Bold.ttf:system/fonts/SourceSansPro-Bold.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-BoldIt.ttf:system/fonts/SourceSansPro-BoldIt.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-ExtraLight.ttf:system/fonts/SourceSansPro-ExtraLight.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-ExtraLightIt.ttf:system/fonts/SourceSansPro-ExtraLightIt.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-It.ttf:system/fonts/SourceSansPro-It.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Light.ttf:system/fonts/SourceSansPro-Light.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-LightIt.ttf:system/fonts/SourceSansPro-LightIt.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Regular.ttf:system/fonts/SourceSansPro-Regular.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-Semibold.ttf:system/fonts/SourceSansPro-Semibold.ttf \
-    external/moztt/SourceSansPro-1.038/SourceSansPro-SemiboldIt.ttf:system/fonts/SourceSansPro-SemiboldIt.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-Black.ttf:system/fonts/SourceSansPro-Black.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-BlackIt.ttf:system/fonts/SourceSansPro-BlackIt.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-Bold.ttf:system/fonts/SourceSansPro-Bold.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-BoldIt.ttf:system/fonts/SourceSansPro-BoldIt.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-ExtraLight.ttf:system/fonts/SourceSansPro-ExtraLight.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-ExtraLightIt.ttf:system/fonts/SourceSansPro-ExtraLightIt.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-It.ttf:system/fonts/SourceSansPro-It.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-Light.ttf:system/fonts/SourceSansPro-Light.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-LightIt.ttf:system/fonts/SourceSansPro-LightIt.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-Regular.ttf:system/fonts/SourceSansPro-Regular.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-Semibold.ttf:system/fonts/SourceSansPro-Semibold.ttf \
+    external/moztt/SourceSansPro-1.050/SourceSansPro-SemiboldIt.ttf:system/fonts/SourceSansPro-SemiboldIt.ttf \
     $(NULL)
