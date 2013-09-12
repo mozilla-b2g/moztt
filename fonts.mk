@@ -26,6 +26,8 @@ PRODUCT_COPY_FILES += \
     frameworks/base/data/fonts/DroidSerif-Bold.ttf:system/fonts/DroidSerif-Bold.ttf \
     frameworks/base/data/fonts/DroidSerif-Italic.ttf:system/fonts/DroidSerif-Italic.ttf \
     frameworks/base/data/fonts/DroidSerif-BoldItalic.ttf:system/fonts/DroidSerif-BoldItalic.ttf \
+    frameworks/base/data/fonts/MTLmr3m.ttf:system/fonts/MTLmr3m.ttf \
+    frameworks/base/data/fonts/MTLc3m.ttf:system/fonts/MTLc3m.ttf \
     $(NULL)
 
 PRODUCT_PACKAGES += \
