@@ -47,4 +47,20 @@ PRODUCT_COPY_FILES += \
     external/moztt/FiraSans-2.001/FiraSansOT-MediumItalic.otf:system/fonts/FiraSansOT-MediumItalic.otf \
     external/moztt/FiraSans-2.001/FiraSansOT-Regular.otf:system/fonts/FiraSansOT-Regular.otf \
     external/moztt/FiraSans-2.001/FiraSansOT-RegularItalic.otf:system/fonts/FiraSansOT-RegularItalic.otf \
+    external/moztt/Roboto-20120823/Roboto-Black.ttf:system/fonts/Roboto-Black.ttf \
+    external/moztt/Roboto-20120823/Roboto-BlackItalic.ttf:system/fonts/Roboto-BlackItalic.ttf \
+    external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
+    external/moztt/Roboto-20120823/Roboto-BoldCondensed.ttf:system/fonts/Roboto-BoldCondensed.ttf \
+    external/moztt/Roboto-20120823/Roboto-BoldCondensedItalic.ttf:system/fonts/Roboto-BoldCondensedItalic.ttf \
+    external/moztt/Roboto-20120823/Roboto-BoldItalic.ttf:system/fonts/Roboto-BoldItalic.ttf \
+    external/moztt/Roboto-20120823/Roboto-Condensed.ttf:system/fonts/Roboto-Condensed.ttf \
+    external/moztt/Roboto-20120823/Roboto-CondensedItalic.ttf:system/fonts/Roboto-CondensedItalic.ttf \
+    external/moztt/Roboto-20120823/Roboto-Italic.ttf:system/fonts/Roboto-Italic.ttf \
+    external/moztt/Roboto-20120823/Roboto-Light.ttf:system/fonts/Roboto-Light.ttf \
+    external/moztt/Roboto-20120823/Roboto-LightItalic.ttf:system/fonts/Roboto-LightItalic.ttf \
+    external/moztt/Roboto-20120823/Roboto-Medium.ttf:system/fonts/Roboto-Medium.ttf \
+    external/moztt/Roboto-20120823/Roboto-MediumItalic.ttf:system/fonts/Roboto-MediumItalic.ttf \
+    external/moztt/Roboto-20120823/Roboto-Regular.ttf:system/fonts/Roboto-Regular.ttf \
+    external/moztt/Roboto-20120823/Roboto-Thin.ttf:system/fonts/Roboto-Thin.ttf \
+    external/moztt/Roboto-20120823/Roboto-ThinItalic.ttf:system/fonts/Roboto-ThinItalic.ttf \
     $(NULL)
