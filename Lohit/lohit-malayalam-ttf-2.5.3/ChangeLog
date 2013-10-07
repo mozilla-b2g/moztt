@@ -1,0 +1,33 @@
+				  lohit-malayalam
+Current Version :- 2.5.3
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- Dropping RFN from OFL.txt
+- Added GPOS for U+0D4E with the help of Ani Peter <apeter@redhat.com>, works with harfbuzz
+- Removed duplicate chillu characters
+
+* Thu Nov 22 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.2
+- corrected shape of U+0D3A #798870
+- corrected panose values
+- added character U+0D4E and anchor point
+- changed U+0D30 U+0D4D to pref feature
+- corrected issues till utrrs gsub test case no. 150 against harfbuzz
+
+* Wed Feb 29 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- added characters u0D3D, u0D44, 0D29, 0D3A
+
+* Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com> - 2.5.0
+- relicensing to OFL 1.1
+
+* Mon May 09 2011 Pravin Satpute <psatpute@redhat.com> - 2.4.5
+- Addition of New Rupee Symbol U+20B9 
+- fixes rh bugs 549319, 578036, 673415, 692363 and 694561
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.4
+- fixes rh bugs 523163, 52167, 52166, 524149 and 524156
+- patch from sshedmak@redhat.com
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.3
+- first release with split tarball
+- see Changelog.old for previous changes
+

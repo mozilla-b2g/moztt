@@ -1,0 +1,52 @@
+				  lohit-devanagari
+Current Version :- 2.91.0
+
+* Thu Oct 03 2013 Pravin Satpute <psatpute@redhat.com> - 2.91.0
+- First release of devanagari after re-writing all rules
+- Open type rules are available in .fea file for easy reusability
+- Supports deva and dev2 both
+- Follows AGL guidelines
+- Testing done with Harbufzz and Uniscribe
+- Test file available with tarball
+
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- added rule for श्री in Marrathi locale
+- Dropping RFN from OFL.txt
+
+* Thu Nov 08 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.2
+- corrected u0938 "स" character shape, #799004
+- improved shape of localized marathi sha, patch from Shriramana Sharma
+- added marathi localized mr_la_la_lig glyph
+- improved positioning of U+A8FB
+- corrected panose values #803294
+- corrected glyph class of "asciicircum"
+
+* Wed Feb 29 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- added U+02BC characters for used in maithili
+- enabled marathi localized shape for marathi locl, #766493
+- added Unicode 6.0 characters support
+- improved asterisk sign
+
+* Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com> - 2.5.0
+- relicensing to OFL 1.1
+- resolved bug 722382
+- applied patch from Bernard Massot <bmassot@free.fr> for fixing self interecting paths
+- removed script tag from single subst feature, patch from Bernard Massot <bmassot@free.fr> 
+
+* Thu Mar 31 2011 Pravin Satpute <psatpute@redhat.com> - 2.4.5
+- removed hinting instructions, see rh bugzilla #682667
+- resolved bug 670467, 648423
+
+* Tue Dec 28 2010 Pravin Satpute <psatpute@redhat.com> - 2.4.4
+- added new rupee sign 
+- added local feature for Nepali Language 
+- added Nepali variants for 5, 8, 'kra', 'jha' resolved bug 648362, 648429,
+648434
+- resolved shirorekha bug for ग्मि   bug 648424
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.3
+- first release for lohit devanagri 
+- using lohit hindi as a base for start, so keeping same version
+
+For older change see https://git.fedorahosted.org/cgit/lohit.git/plain/ChangeLog

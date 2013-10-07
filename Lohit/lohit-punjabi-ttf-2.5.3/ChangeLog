@@ -1,0 +1,25 @@
+				  lohit-punjabi
+Current Version :- 2.5.3
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- Dropping RFN from OFL.txt
+- Skipped 2.5.2, for matching version with family
+
+* Wed Feb 29 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- added rupee symbol U+20B9
+- added autohint instructions in conf file
+
+* Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com> - 2.5.0
+- relicensing to OFL 1.1
+
+* Wed Mar 24 2010 Pravin Satpute <psatpute@redhat.com> - 2.4.4
+- fixed PFM Family name, ascent/descent values in OS
+- added 'ii' matra ligatures for bindi (U+0A70) and tippi (U+0A71)
+- added anchor for below base matras
+- added ligatures for 'u0A47, u0A48, u0A4B and u0A4c' with u0A70 and u0A71
+- fixed bug 576769
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.3
+- first release with split tarball
+- see Changelog.old for previous changes
+
