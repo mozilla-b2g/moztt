@@ -1,0 +1,5 @@
+These are all the Lohit fonts from https://fedorahosted.org/lohit/,
+latest releases as of 2013-10-06.
+
+The specific fonts to be included in the b2g build will be determined
+by what is included in the moztt fonts.mk file.

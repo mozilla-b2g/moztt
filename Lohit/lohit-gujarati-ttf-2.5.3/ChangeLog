@@ -1,0 +1,29 @@
+				  lohit-gujarati
+Current Version :- 2.5.3
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- Dropping RFN from OFL.txt
+- Improved shape of Dha U+0AA7 #892305
+
+* Thu Nov 22 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.2
+- Resolved #872942
+- Corrected panose values
+
+* Wed Feb 29 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- improved asterisk shape
+
+* Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com> - 2.5.0
+- relicensing to OFL 1.1
+
+* Tue Oct 27 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.5
+- updated in .conf file
+- added Indian Rupee Symbol
+- removed hinting instructoins, for more information see rh bugzilla #682667
+
+* Tue Oct 27 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.4
+- updated latin digit positions
+- fix rh bug #530943 
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.3
+- first release with split tarball
+- see Changelog.old for previous changes
