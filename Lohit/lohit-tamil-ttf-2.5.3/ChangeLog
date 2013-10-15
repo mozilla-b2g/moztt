@@ -1,0 +1,34 @@
+				  lohit-tamil
+Current Version :- 2.5.3
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- Dropping RFN from OFL.txt
+- updated Zero and Five numeral
+- updated shapes of u0BF9 Tamil Rupee Sign patch from Shriramana Sharma <samjnaa@gmail.com>
+- fixed Rendering of Letter RA,RI,RII per GoTN standards #829143
+- Skipped version 2.5.2 for matching with family version
+
+* Tue Jun 05 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- improved asterisk glyph
+- added autohint instructions in .conf file
+- removed self intersecting error from latin shapes
+- corrected SHI SHII glyphs #806591
+- improved numbers, patch from Shriramana Sharma <samjnaa@gmail.com>
+- Check New font Lohit Tamil Classical, released in another tarball lohit-tamilclassical
+
+* Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com> - 2.5.0
+- relicensing to OFL 1.1
+- resolved 629824, 673419
+- updated conf file
+
+* Tue Nov 24 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.5
+- fixed rh bug 536724
+- updated ascent, descent values as well OS/2 metrics
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.4
+- fixe rh bug 524457
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.3
+- first release with split tarball
+- see Changelog.old for previous changes
+

@@ -1,0 +1,33 @@
+				  lohit-tegulu
+Current Version :- 2.5.3
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- Dropping RFN from OFL.txt
+- Resolved 831238
+
+* Wed Nov 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.2
+- removed unwanted squarebox characters from wrong unicode points. #803563
+- corrected panose values #803294
+
+* Wed Feb 29 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- Updated character U0C1D_U0C4D.blwdf, U0C18_U0C4D.blwf and glyph-504
+
+* Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com> - 2.5.0
+- relicensing to OFL 1.1
+
+* Tue Aug 30 2011 Pravin Satpute <psatpute@redhat.com> - 2.4.6
+- Major bug fixing for below base glyphs merging
+- Added Indian Rupee Symbol U+20B9
+- Resolved bug 548686, 551317, 578040, 622682, 673420, 692368, 714562, 714561, 714563, 714560, 714557
+
+* Wed Nov 25 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.5
+- fix rh bug 531201
+- fixed os/2 data type table as well
+
+* Fri Sep 18 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.4
+- fix rh bug 504270
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.3
+- first release with split tarball
+- see Changelog.old for previous changes
+
