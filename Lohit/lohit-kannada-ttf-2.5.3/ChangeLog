@@ -1,0 +1,35 @@
+				  lohit-kannada
+Current Version :- 2.5.3
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- Resolves bug #825104, patch from Shriramana Sharma <samjnaa@gmail.com>
+- Removed wrongly map glyph from uni2212
+- Dropping RFN from OFL.txt
+- Skipped 2.5.2 for matching version with family
+- Added CCS for #825081, fixed mergin of K.SSA 
+- Fixed combination reported in https://bugzilla.redhat.com/show_bug.cgi?id=825081#c15
+
+
+* Wed Feb 29 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- Resolved bug 748710
+- Improved asterisk glyph
+
+* Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com> - 2.5.0
+- relicensing to OFL 1.1
+
+* Thu May 18 2011 Pravin Satpute <psatpute@redhat.com> - 2.4.6
+- fix rh bugzilla 578032, 576105, 673414, 692362 and 694705
+- added new rupee symbol
+- enable autohint in fontconfig file
+
+* Thu Mar 18 2010 Pravin Satpute <psatpute@redhat.com> - 2.4.5
+- fix rh bugzilla 559462, 576105
+- added panctuation marks and arabic numerals
+
+* Fri Sep 18 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.4
+- fix rh bug 524148
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.3
+- first release with split tarball
+- see Changelog.old for previous changes
+

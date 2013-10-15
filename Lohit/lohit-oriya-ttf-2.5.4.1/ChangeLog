@@ -1,0 +1,30 @@
+				  lohit-oriya
+Current Version :- 2.5.4.1
+
+* Wed Jun 19 2013 Pravin Satpute <psatpute@redhat.com> - 2.5.4.1
+- Corrected Makefile with release tarball
+
+* Mon May 27 2013 Pravin Satpute <psatpute@redhat.com> - 2.5.4
+- Resolves rh#923215: Test case 123 gusb of utrrs
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- Dropping RFN from OFL.txt
+- Skipped 2.5.2, for matching version with family
+
+* Wed Feb 29 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- added u0B72, u0B73, u0B74, u0B75, u0B76, u0B77
+- added autohint instructions in conf file
+
+* Wed Sep 21 2011 Pravin Satpute <psatpute@redhat.com> - 2.5.0
+- relicensing to OFL 1.1
+
+* Tue Aug 30 2011 Pravin Satpute <psatpute@redhat.com> - 2.4.4
+- added Indian rupee sign U+20B9
+- removed prepend_first from conf file, see bug #578037 for more info
+- gsub rules were not working well with qt, added pres and some akhn gsub for resolving it
+- see bug #623995 and bug #639977
+- tested thoroughly now oriya fonts render perfect on oowriter, pango and qt as well
+
+* Fri Aug 28 2009 Pravin Satpute <psatpute@redhat.com> - 2.4.3
+- first release with split tarball
+- check http://git.fedorahosted.org/cgit/lohit.git/tree/ChangeLog for older changes

@@ -1,0 +1,16 @@
+				  lohit-nepali
+Current Version :- 2.5.3
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- corrected glyph class of "asciicircum"
+- Dropping RFN from OFL.txt
+- Switched to 2.5.3 to match version with family
+
+* Thu Mar 22 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1.1
+- corrected u0938 "स" character shape, #799004
+- resolved issues of improper rendering in Nepali locale
+
+* Wed Feb 29 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- This is fork of Lohit Devanagari specifically for marathi language
+- Using Lohit Devanagari with mr_IN locale is equivalent to this font
+- for older changes see Changelog of Lohit Devanagari

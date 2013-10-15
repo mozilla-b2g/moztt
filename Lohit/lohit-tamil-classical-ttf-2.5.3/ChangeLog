@@ -1,0 +1,15 @@
+				  lohit-tamilclassical
+Current Version :- 2.5.3
+
+* Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
+- Updated shapes of u0BF9 Tamil Rupee Sign patch from Shriramana Sharma <samjnaa@gmail.com>
+- Dropping RFN from OFL.txt
+- Skipped version 2.5.2
+
+* Thu Jun 07 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1.1
+- updated Zero and Five numeral
+- updated name of font and conf files
+
+* Tue Jun 05 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.1
+- First release with the fork of Lohit Tamil with added ligatures specifically for Tamil Classical.
+- Patches from Shriramana Sharma <samjnaa@gmail.com>
