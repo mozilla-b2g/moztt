@@ -50,6 +50,7 @@ PRODUCT_COPY_FILES += \
     external/moztt/FiraSans-2.001/FiraSansOT-MediumItalic.otf:system/fonts/FiraSansOT-MediumItalic.otf \
     external/moztt/FiraSans-2.001/FiraSansOT-Regular.otf:system/fonts/FiraSansOT-Regular.otf \
     external/moztt/FiraSans-2.001/FiraSansOT-RegularItalic.otf:system/fonts/FiraSansOT-RegularItalic.otf \
+    external/moztt/KhmerOS/KhmerOS.ttf:system/fonts/KhmerOS.ttf \
     external/moztt/Lohit/lohit-bengali-ttf-2.5.3/Lohit-Bengali.ttf:system/fonts/Lohit-Bengali.ttf \
     external/moztt/Lohit/lohit-devanagari-ttf-2.91.0/Lohit-Devanagari.ttf:system/fonts/Lohit-Devanagari.ttf \
     external/moztt/Lohit/lohit-gujarati-ttf-2.5.3/Lohit-Gujarati.ttf:system/fonts/Lohit-Gujarati.ttf \
