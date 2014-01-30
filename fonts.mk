@@ -50,7 +50,6 @@ PRODUCT_COPY_FILES += \
     external/moztt/FiraSans-2.001/FiraSansOT-MediumItalic.otf:system/fonts/FiraSansOT-MediumItalic.otf \
     external/moztt/FiraSans-2.001/FiraSansOT-Regular.otf:system/fonts/FiraSansOT-Regular.otf \
     external/moztt/FiraSans-2.001/FiraSansOT-RegularItalic.otf:system/fonts/FiraSansOT-RegularItalic.otf \
-    external/moztt/KhmerOS/KhmerOS.ttf:system/fonts/KhmerOS.ttf \
     external/moztt/Lohit/lohit-bengali-ttf-2.5.3/Lohit-Bengali.ttf:system/fonts/Lohit-Bengali.ttf \
     external/moztt/Lohit/lohit-devanagari-ttf-2.91.0/Lohit-Devanagari.ttf:system/fonts/Lohit-Devanagari.ttf \
     external/moztt/Lohit/lohit-gujarati-ttf-2.5.3/Lohit-Gujarati.ttf:system/fonts/Lohit-Gujarati.ttf \
@@ -60,6 +59,7 @@ PRODUCT_COPY_FILES += \
     external/moztt/Lohit/lohit-punjabi-ttf-2.5.3/Lohit-Punjabi.ttf:system/fonts/Lohit-Punjabi.ttf \
     external/moztt/Lohit/lohit-tamil-ttf-2.5.3/Lohit-Tamil.ttf:system/fonts/Lohit-Tamil.ttf \
     external/moztt/Lohit/lohit-telugu-ttf-2.5.3/Lohit-Telugu.ttf:system/fonts/Lohit-Telugu.ttf \
+    external/moztt/Nokora-1.3/Nokora-Regular.ttf:system/fonts/Nokora-Regular.ttf \
     external/moztt/Padauk-2.80/Padauk.ttf:system/fonts/Padauk.ttf \
     external/moztt/Padauk-2.80/Padauk-bold.ttf:system/fonts/Padauk-bold.ttf \
     external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
