@@ -58,6 +58,7 @@ PRODUCT_COPY_FILES += \
     external/moztt/Lohit/lohit-punjabi-ttf-2.5.3/Lohit-Punjabi.ttf:system/fonts/Lohit-Punjabi.ttf \
     external/moztt/Lohit/lohit-tamil-ttf-2.5.3/Lohit-Tamil.ttf:system/fonts/Lohit-Tamil.ttf \
     external/moztt/Lohit/lohit-telugu-ttf-2.5.3/Lohit-Telugu.ttf:system/fonts/Lohit-Telugu.ttf \
+    external/moztt/Noto/NotoColorEmoji.ttf:system/fonts/NotoColorEmoji.ttf \
     external/moztt/Noto/NotoSansBengali-Regular.ttf:system/fonts/NotoSansBengali-Regular.ttf \
     external/moztt/Noto/NotoSansBengali-Bold.ttf:system/fonts/NotoSansBengali-Bold.ttf \
     external/moztt/Padauk-2.80/Padauk.ttf:system/fonts/Padauk.ttf \
