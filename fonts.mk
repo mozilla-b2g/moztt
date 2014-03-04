@@ -39,6 +39,7 @@ PRODUCT_COPY_FILES += \
     external/moztt/CharisSILCompact-4.114/CharisSILCompact-BI.ttf:system/fonts/CharisSILCompact-BI.ttf \
     external/moztt/CharisSILCompact-4.114/CharisSILCompact-I.ttf:system/fonts/CharisSILCompact-I.ttf \
     external/moztt/CharisSILCompact-4.114/CharisSILCompact-R.ttf:system/fonts/CharisSILCompact-R.ttf \
+    external/moztt/DDCUchen-1.000/DDC_Uchen.ttf:system/fonts/DDC_Uchen.ttf \
     external/moztt/DroidSans/DroidSansThai.ttf:system/fonts/DroidSansThai.ttf \
     external/moztt/FiraMono-2.001/FiraMonoOT-Bold.otf:system/fonts/FiraMonoOT-Bold.otf \
     external/moztt/FiraMono-2.001/FiraMonoOT-Regular.otf:system/fonts/FiraMonoOT-Regular.otf \
