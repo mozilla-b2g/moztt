@@ -62,6 +62,7 @@ PRODUCT_COPY_FILES += \
     external/moztt/Noto/NotoSansBengali-Bold.ttf:system/fonts/NotoSansBengali-Bold.ttf \
     external/moztt/Padauk-2.80/Padauk.ttf:system/fonts/Padauk.ttf \
     external/moztt/Padauk-2.80/Padauk-bold.ttf:system/fonts/Padauk-bold.ttf \
+	external/moztt/TibetanMachineUni/TibMachUni.ttf:system/fonts/TibMachUni.ttf \
     external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
     external/moztt/Roboto-20120823/Roboto-BoldItalic.ttf:system/fonts/Roboto-BoldItalic.ttf \
     external/moztt/Roboto-20120823/Roboto-Italic.ttf:system/fonts/Roboto-Italic.ttf \
