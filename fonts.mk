@@ -62,6 +62,8 @@ PRODUCT_COPY_FILES += \
     external/moztt/Noto/NotoColorEmoji.ttf:system/fonts/NotoColorEmoji.ttf \
     external/moztt/Noto/NotoSansBengali-Regular.ttf:system/fonts/NotoSansBengali-Regular.ttf \
     external/moztt/Noto/NotoSansBengali-Bold.ttf:system/fonts/NotoSansBengali-Bold.ttf \
+    external/moztt/Noto/NotoSansKhmerUI-Regular.ttf:system/fonts/NotoSansKhmerUI-Regular.ttf \
+    external/moztt/Noto/NotoSansKhmerUI-Bold.ttf:system/fonts/NotoSansKhmerUI-Bold.ttf \
     external/moztt/Padauk-2.80/Padauk.ttf:system/fonts/Padauk.ttf \
     external/moztt/Padauk-2.80/Padauk-bold.ttf:system/fonts/Padauk-bold.ttf \
     external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
