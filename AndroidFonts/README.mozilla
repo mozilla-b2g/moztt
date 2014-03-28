@@ -1,0 +1,3 @@
+The fonts here are copied from Android's frameworks/base/data/fonts;
+they're imported into moztt so that we can generate .woff versions locally,
+and then choose whether to install them in uncompressed or compressed form.
