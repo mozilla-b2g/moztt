@@ -32,7 +32,7 @@ PRODUCT_COPY_FILES += \
     external/moztt/AndroidFonts/DroidSansArmenian$(TTF_EXT):system/fonts/DroidSansArmenian$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansEthiopic-Regular$(TTF_EXT):system/fonts/DroidSansEthiopic-Regular$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansEthiopic-Bold$(TTF_EXT):system/fonts/DroidSansEthiopic-Bold$(TTF_EXT) \
-    external/moztt/AndroidFonts/DroidSansFallback$(TTF_EXT):system/fonts/DroidSansFallback$(TTF_EXT) \
+    external/moztt/AndroidFonts/DroidSansFallbackFull$(TTF_EXT):system/fonts/DroidSansFallback$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansGeorgian$(TTF_EXT):system/fonts/DroidSansGeorgian$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansMono$(TTF_EXT):system/fonts/DroidSansMono$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSerif-Regular$(TTF_EXT):system/fonts/DroidSerif-Regular$(TTF_EXT) \
