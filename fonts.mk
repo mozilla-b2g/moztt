@@ -51,17 +51,19 @@ PRODUCT_COPY_FILES += \
     external/moztt/FiraSans-2.001/FiraSansOT-MediumItalic.otf:system/fonts/FiraSansOT-MediumItalic.otf \
     external/moztt/FiraSans-2.001/FiraSansOT-Regular.otf:system/fonts/FiraSansOT-Regular.otf \
     external/moztt/FiraSans-2.001/FiraSansOT-RegularItalic.otf:system/fonts/FiraSansOT-RegularItalic.otf \
-    external/moztt/Lohit/lohit-devanagari-ttf-2.91.0/Lohit-Devanagari.ttf:system/fonts/Lohit-Devanagari.ttf \
     external/moztt/Lohit/lohit-gujarati-ttf-2.5.3/Lohit-Gujarati.ttf:system/fonts/Lohit-Gujarati.ttf \
     external/moztt/Lohit/lohit-kannada-ttf-2.5.3/Lohit-Kannada.ttf:system/fonts/Lohit-Kannada.ttf \
     external/moztt/Lohit/lohit-malayalam-ttf-2.5.3/Lohit-Malayalam.ttf:system/fonts/Lohit-Malayalam.ttf \
     external/moztt/Lohit/lohit-oriya-ttf-2.5.4.1/Lohit-Oriya.ttf:system/fonts/Lohit-Oriya.ttf \
     external/moztt/Lohit/lohit-punjabi-ttf-2.5.3/Lohit-Punjabi.ttf:system/fonts/Lohit-Punjabi.ttf \
-    external/moztt/Lohit/lohit-tamil-ttf-2.5.3/Lohit-Tamil.ttf:system/fonts/Lohit-Tamil.ttf \
     external/moztt/Lohit/lohit-telugu-ttf-2.5.3/Lohit-Telugu.ttf:system/fonts/Lohit-Telugu.ttf \
     external/moztt/Noto/NotoColorEmoji.ttf:system/fonts/NotoColorEmoji.ttf \
     external/moztt/Noto/NotoSansBengali-Regular.ttf:system/fonts/NotoSansBengali-Regular.ttf \
     external/moztt/Noto/NotoSansBengali-Bold.ttf:system/fonts/NotoSansBengali-Bold.ttf \
+    external/moztt/Noto/NotoSansDevanagari-Regular.ttf:system/fonts/NotoSansDevanagari-Regular.ttf \
+    external/moztt/Noto/NotoSansDevanagari-Bold.ttf:system/fonts/NotoSansDevanagari-Bold.ttf \
+    external/moztt/Noto/NotoSansTamil-Regular.ttf:system/fonts/NotoSansTamil-Regular.ttf \
+    external/moztt/Noto/NotoSansTamil-Bold.ttf:system/fonts/NotoSansTamil-Bold.ttf \
     external/moztt/Noto/NotoSansKhmerUI-Regular.ttf:system/fonts/NotoSansKhmerUI-Regular.ttf \
     external/moztt/Noto/NotoSansKhmerUI-Bold.ttf:system/fonts/NotoSansKhmerUI-Bold.ttf \
     external/moztt/Padauk-2.80/Padauk.ttf:system/fonts/Padauk.ttf \
@@ -74,6 +76,8 @@ PRODUCT_COPY_FILES += \
 
 # Replaced by Noto font
 #    external/moztt/Lohit/lohit-bengali-ttf-2.5.3/Lohit-Bengali.ttf:system/fonts/Lohit-Bengali.ttf \
+#    external/moztt/Lohit/lohit-devanagari-ttf-2.91.0/Lohit-Devanagari.ttf:system/fonts/Lohit-Devanagari.ttf \
+#    external/moztt/Lohit/lohit-tamil-ttf-2.5.3/Lohit-Tamil.ttf:system/fonts/Lohit-Tamil.ttf \
 
 # Lohit fonts not currently included, because they support language-specific variant renderings
 # of scripts also supported by other fonts already present above.
