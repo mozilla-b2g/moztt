@@ -101,3 +101,8 @@ PRODUCT_COPY_FILES += \
 #    external/moztt/Lohit/lohit-nepali-ttf-2.5.3/Lohit-Nepali.ttf:system/fonts/Lohit-Nepali.ttf \
 #    external/moztt/Lohit/lohit-tamil-classical-ttf-2.5.3/Lohit-Tamil-Classical.ttf:system/fonts/Lohit-Tamil-Classical.ttf \
 # These may be moved into the build later if localizers explicitly request them via CSS styling.
+
+# This is an Open Type MATH font used for MathML.
+PRODUCT_COPY_FILES += \
+    external/moztt/LatinModernMath/latinmodern-math.woff:system/fonts/latinmodern-math.woff \
+    $(NULL)
