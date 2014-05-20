@@ -71,6 +71,7 @@ PRODUCT_COPY_FILES += \
     external/moztt/CharisSILCompact-4.114/CharisSILCompact-R$(TTF_EXT):system/fonts/CharisSILCompact-R$(TTF_EXT) \
     external/moztt/DDCUchen-1.000/DDC_Uchen$(TTF_EXT):system/fonts/DDC_Uchen$(TTF_EXT) \
     external/moztt/DroidSans/DroidSansThai$(TTF_EXT):system/fonts/DroidSansThai$(TTF_EXT) \
+    external/moztt/ICTA/BhashitaScreen$(TTF_EXT):system/fonts/BhashitaScreen$(TTF_EXT) \
     external/moztt/Lohit/lohit-gujarati-ttf-2.5.3/Lohit-Gujarati$(TTF_EXT):system/fonts/Lohit-Gujarati$(TTF_EXT) \
     external/moztt/Lohit/lohit-kannada-ttf-2.5.3/Lohit-Kannada$(TTF_EXT):system/fonts/Lohit-Kannada$(TTF_EXT) \
     external/moztt/Lohit/lohit-malayalam-ttf-2.5.3/Lohit-Malayalam$(TTF_EXT):system/fonts/Lohit-Malayalam$(TTF_EXT) \
