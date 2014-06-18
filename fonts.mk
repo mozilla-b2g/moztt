@@ -14,13 +14,15 @@
 
 # Warning: this is actually a product definition, to be inherited from
 
-# Many of the TrueType files here may be shipped either as-is or compressed in .woff format
-# to save space, depending on product requirements.
+# Many of the TrueType/OpenType files here may be shipped either as-is or
+# compressed in .woff format to save space, depending on product requirements.
 # Compression is chosen by specifying MOZ_PRODUCT_COMPRESS_FONTS := true in the product.
 ifeq ($(MOZ_PRODUCT_COMPRESS_FONTS), true)
 TTF_EXT := .woff
+OTF_EXT := .woff
 else
 TTF_EXT := .ttf
+OTF_EXT := .otf
 endif
 
 # Android fonts, imported from frameworks/base/data/fonts into moztt.
@@ -104,5 +106,5 @@ PRODUCT_COPY_FILES += \
 
 # This is an Open Type MATH font used for MathML.
 PRODUCT_COPY_FILES += \
-    external/moztt/LatinModernMath/latinmodern-math.woff:system/fonts/latinmodern-math.woff \
+    external/moztt/LatinModernMath/latinmodern-math$(OTF_EXT):system/fonts/latinmodern-math$(OTF_EXT) \
     $(NULL)
