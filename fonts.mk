@@ -139,5 +139,5 @@ PRODUCT_COPY_FILES += \
 # Further information on how to use this font in:
 # http://buildingfirefoxos.com/building-blocks/icon-font.html
 PRODUCT_COPY_FILES += \
-    external/moztt/Gaia-icons-1.00/Gaia-icons.ttf:system/fonts/hidden/Gaia-icons.ttf \
+    external/moztt/gaia-icons-0.2.0/gaia-icons.woff:system/fonts/hidden/gaia-icons.woff \
     $(NULL)
