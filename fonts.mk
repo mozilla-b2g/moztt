@@ -133,11 +133,3 @@ PRODUCT_COPY_FILES += \
 #    external/moztt/Lohit/lohit-nepali-ttf-2.5.3/Lohit-Nepali.ttf:system/fonts/Lohit-Nepali.ttf \
 #    external/moztt/Lohit/lohit-tamil-classical-ttf-2.5.3/Lohit-Tamil-Classical.ttf:system/fonts/Lohit-Tamil-Classical.ttf \
 # These may be moved into the build later if localizers explicitly request them via CSS styling.
-
-
-# Gaia-icons fonts
-# Further information on how to use this font in:
-# http://buildingfirefoxos.com/building-blocks/icon-font.html
-PRODUCT_COPY_FILES += \
-    external/moztt/Gaia-icons-1.00/Gaia-icons.ttf:system/fonts/hidden/Gaia-icons.ttf \
-    $(NULL)
