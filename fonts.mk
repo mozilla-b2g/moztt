@@ -112,6 +112,8 @@ PRODUCT_COPY_FILES += \
     external/moztt/Noto/NotoSansDevanagari-Regular$(TTF_EXT):system/fonts/NotoSansDevanagari-Regular$(TTF_EXT) \
     external/moztt/Noto/NotoSansKhmerUI-Bold$(TTF_EXT):system/fonts/NotoSansKhmerUI-Bold$(TTF_EXT) \
     external/moztt/Noto/NotoSansKhmerUI-Regular$(TTF_EXT):system/fonts/NotoSansKhmerUI-Regular$(TTF_EXT) \
+    external/moztt/Noto/NotoSansMalayalamUI-Regular$(TTF_EXT):system/fonts/NotoSansMalayalamUI-Regular$(TTF_EXT) \
+    external/moztt/Noto/NotoSansMalayalamUI-Bold$(TTF_EXT):system/fonts/NotoSansMalayalamUI-Bold$(TTF_EXT) \
     external/moztt/Noto/NotoSansTamil-Bold$(TTF_EXT):system/fonts/NotoSansTamil-Bold$(TTF_EXT) \
     external/moztt/Noto/NotoSansTamil-Regular$(TTF_EXT):system/fonts/NotoSansTamil-Regular$(TTF_EXT) \
     external/moztt/Padauk-2.80/Padauk$(TTF_EXT):system/fonts/Padauk$(TTF_EXT) \
