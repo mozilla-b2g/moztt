@@ -4,10 +4,10 @@
 
 Font: Latin Modern Math
 Authors: Bogus\l{}aw Jackowski, Piotr Strzelczyk and Piotr Pianowski
-Version: 1.958
-Date: 14 I 2013
+Version: 1.959
+Date: 5 IX 2014
 
-Copyright 2012--2013 for TeX Gyre math extensions by B. Jackowski,
+Copyright 2012--2014 for TeX Gyre math extensions by B. Jackowski,
 P. Strzelczyk and P. Pianowski (on behalf of TeX Users Groups).
 
 This work can be freely used and distributed under
