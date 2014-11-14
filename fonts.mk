@@ -68,10 +68,6 @@ PRODUCT_COPY_FILES += \
     external/moztt/FiraSans-3.109/FiraSans-UltraLight.otf:system/fonts/FiraSans-UltraLight.otf \
     external/moztt/FiraSans-3.109/FiraSans-UltraLightItalic.otf:system/fonts/FiraSans-UltraLightItalic.otf \
     external/moztt/Noto/NotoColorEmoji.ttf:system/fonts/NotoColorEmoji.ttf \
-    external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
-    external/moztt/Roboto-20120823/Roboto-BoldItalic.ttf:system/fonts/Roboto-BoldItalic.ttf \
-    external/moztt/Roboto-20120823/Roboto-Italic.ttf:system/fonts/Roboto-Italic.ttf \
-    external/moztt/Roboto-20120823/Roboto-Regular.ttf:system/fonts/Roboto-Regular.ttf \
     $(NULL)
 
 # FiraSans faces that we omit because they have weights that are not multiples of 100:
