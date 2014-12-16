@@ -110,6 +110,8 @@ PRODUCT_COPY_FILES += \
     external/moztt/Noto/NotoSansBengali-Regular$(TTF_EXT):system/fonts/NotoSansBengali-Regular$(TTF_EXT) \
     external/moztt/Noto/NotoSansDevanagari-Bold$(TTF_EXT):system/fonts/NotoSansDevanagari-Bold$(TTF_EXT) \
     external/moztt/Noto/NotoSansDevanagari-Regular$(TTF_EXT):system/fonts/NotoSansDevanagari-Regular$(TTF_EXT) \
+    external/moztt/Noto/NotoSansEthiopic-Regular$(TTF_EXT):system/fonts/NotoSansEthiopic-Regular$(TTF_EXT) \
+    external/moztt/Noto/NotoSansEthiopic-Bold$(TTF_EXT):system/fonts/NotoSansEthiopic-Bold$(TTF_EXT) \
     external/moztt/Noto/NotoSansKhmerUI-Bold$(TTF_EXT):system/fonts/NotoSansKhmerUI-Bold$(TTF_EXT) \
     external/moztt/Noto/NotoSansKhmerUI-Regular$(TTF_EXT):system/fonts/NotoSansKhmerUI-Regular$(TTF_EXT) \
     external/moztt/Noto/NotoSansTamil-Bold$(TTF_EXT):system/fonts/NotoSansTamil-Bold$(TTF_EXT) \
