@@ -9,7 +9,7 @@ collaborative effort from:
 1. Mr.Hussain K H, The designer of popular Rachana fonts for Rachana Aksharavedi
 and an ardent supporter of traditional Malayalam orthography.
 
-2. Suresh P, A free software enthusiast and hobbyist).
+2. Suresh P, A free software enthusiast and hobbyist
 
 3. Swathanthra Malayalam Computing - A free software collective engaged in
 development, localization and popularization of various free software for
@@ -23,7 +23,7 @@ Main features of the font
 stacked Malayalam conjuncts.
 4. Individually designed glyphs for complex conjuncts rather than
 using component glyphs.
-5. Glyphs for conjuncts with gopi-repham already designed for future use.
+5. Supports both Opentype Script tags MLYM and MLM2 
 
 To do
 =====
@@ -39,5 +39,11 @@ Rajeesh K Nambiar ( Rajeeshknambiar@gmail.com)
 
 License
 =======
-
+GPLv3 with Font Exception
 See COPYING file with the font.
+
+Preview and Download
+====================
+Preview and Download at http://smc.org.in/fonts/
+Upstream : https://gitlab.com/smc/meera
+
