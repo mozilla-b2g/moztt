@@ -105,7 +105,7 @@ PRODUCT_COPY_FILES += \
     external/moztt/Lohit/lohit-oriya-ttf-2.5.4.1/Lohit-Oriya$(TTF_EXT):system/fonts/Lohit-Oriya$(TTF_EXT) \
     external/moztt/Lohit/lohit-punjabi-ttf-2.5.3/Lohit-Punjabi$(TTF_EXT):system/fonts/Lohit-Punjabi$(TTF_EXT) \
     external/moztt/Lohit/lohit-telugu-ttf-2.5.3/Lohit-Telugu$(TTF_EXT):system/fonts/Lohit-Telugu$(TTF_EXT) \
-    external/moztt/Meera-06/Meera$(TTF_EXT):system/fonts/Meera$(TTF_EXT) \
+    external/moztt/Meera-6.1.1/Meera$(TTF_EXT):system/fonts/Meera$(TTF_EXT) \
     external/moztt/Noto/NotoSansBengali-Bold$(TTF_EXT):system/fonts/NotoSansBengali-Bold$(TTF_EXT) \
     external/moztt/Noto/NotoSansBengali-Regular$(TTF_EXT):system/fonts/NotoSansBengali-Regular$(TTF_EXT) \
     external/moztt/Noto/NotoSansDevanagari-Bold$(TTF_EXT):system/fonts/NotoSansDevanagari-Bold$(TTF_EXT) \
