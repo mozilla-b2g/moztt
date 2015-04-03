@@ -26,7 +26,6 @@ endif
 # Android fonts, imported from frameworks/base/data/fonts into moztt.
 # These may be compressed, as they're largely here for fallback or less-common language needs.
 PRODUCT_COPY_FILES += \
-    external/moztt/AndroidFonts/DroidNaskh-Regular$(TTF_EXT):system/fonts/DroidNaskh-Regular$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansHebrew-Regular$(TTF_EXT):system/fonts/DroidSansHebrew-Regular$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansHebrew-Bold$(TTF_EXT):system/fonts/DroidSansHebrew-Bold$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansArmenian$(TTF_EXT):system/fonts/DroidSansArmenian$(TTF_EXT) \
@@ -106,6 +105,8 @@ PRODUCT_COPY_FILES += \
     external/moztt/Lohit/lohit-punjabi-ttf-2.5.3/Lohit-Punjabi$(TTF_EXT):system/fonts/Lohit-Punjabi$(TTF_EXT) \
     external/moztt/Lohit/lohit-telugu-ttf-2.5.3/Lohit-Telugu$(TTF_EXT):system/fonts/Lohit-Telugu$(TTF_EXT) \
     external/moztt/Meera-6.1.1/Meera$(TTF_EXT):system/fonts/Meera$(TTF_EXT) \
+    external/moztt/Noto/NotoNaskhArabic-Bold$(TTF_EXT):system/fonts/NotoNaskhArabic-Bold$(TTF_EXT) \
+    external/moztt/Noto/NotoNaskhArabic-Regular$(TTF_EXT):system/fonts/NotoNaskhArabic-Regular$(TTF_EXT) \
     external/moztt/Noto/NotoSansBengali-Bold$(TTF_EXT):system/fonts/NotoSansBengali-Bold$(TTF_EXT) \
     external/moztt/Noto/NotoSansBengali-Regular$(TTF_EXT):system/fonts/NotoSansBengali-Regular$(TTF_EXT) \
     external/moztt/Noto/NotoSansDevanagari-Bold$(TTF_EXT):system/fonts/NotoSansDevanagari-Bold$(TTF_EXT) \
