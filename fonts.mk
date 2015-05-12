@@ -26,7 +26,7 @@ endif
 # Android fonts, imported from frameworks/base/data/fonts into moztt.
 # These may be compressed, as they're largely here for fallback or less-common language needs.
 PRODUCT_COPY_FILES += \
-    external/moztt/AndroidFonts/DroidNaskh-Regular$(TTF_EXT):system/fonts/DroidNaskh-Regular$(TTF_EXT) \
+    external/moztt/AndroidFonts/DroidNaskhUI-Regular$(TTF_EXT):system/fonts/DroidNaskhUI-Regular$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansHebrew-Regular$(TTF_EXT):system/fonts/DroidSansHebrew-Regular$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansHebrew-Bold$(TTF_EXT):system/fonts/DroidSansHebrew-Bold$(TTF_EXT) \
     external/moztt/AndroidFonts/DroidSansArmenian$(TTF_EXT):system/fonts/DroidSansArmenian$(TTF_EXT) \
