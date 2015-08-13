@@ -46,27 +46,27 @@ PRODUCT_COPY_FILES += \
 # MozTT fonts that we don't compress, because there's relatively little gain to be had
 # and/or because they're primary UI fonts that we want instantly available.
 PRODUCT_COPY_FILES += \
-    external/moztt/FiraMono-3.2/FiraMono-Bold.otf:system/fonts/FiraMono-Bold.otf \
-    external/moztt/FiraMono-3.2/FiraMono-Medium.otf:system/fonts/FiraMono-Medium.otf \
-    external/moztt/FiraMono-3.2/FiraMono-Regular.otf:system/fonts/FiraMono-Regular.otf \
-    external/moztt/FiraSans-4.1/FiraSans-Bold.otf:system/fonts/FiraSans-Bold.otf \
-    external/moztt/FiraSans-4.1/FiraSans-BoldItalic.otf:system/fonts/FiraSans-BoldItalic.otf \
-    external/moztt/FiraSans-4.1/FiraSans-ExtraBold.otf:system/fonts/FiraSans-ExtraBold.otf \
-    external/moztt/FiraSans-4.1/FiraSans-ExtraBoldItalic.otf:system/fonts/FiraSans-ExtraBoldItalic.otf \
-    external/moztt/FiraSans-4.1/FiraSans-Hair.otf:system/fonts/FiraSans-Hair.otf \
-    external/moztt/FiraSans-4.1/FiraSans-HairItalic.otf:system/fonts/FiraSans-HairItalic.otf \
-    external/moztt/FiraSans-4.1/FiraSans-Heavy.otf:system/fonts/FiraSans-Heavy.otf \
-    external/moztt/FiraSans-4.1/FiraSans-HeavyItalic.otf:system/fonts/FiraSans-HeavyItalic.otf \
-    external/moztt/FiraSans-4.1/FiraSans-Italic.otf:system/fonts/FiraSans-Italic.otf \
-    external/moztt/FiraSans-4.1/FiraSans-Light.otf:system/fonts/FiraSans-Light.otf \
-    external/moztt/FiraSans-4.1/FiraSans-LightItalic.otf:system/fonts/FiraSans-LightItalic.otf \
-    external/moztt/FiraSans-4.1/FiraSans-Medium.otf:system/fonts/FiraSans-Medium.otf \
-    external/moztt/FiraSans-4.1/FiraSans-MediumItalic.otf:system/fonts/FiraSans-MediumItalic.otf \
-    external/moztt/FiraSans-4.1/FiraSans-Regular.otf:system/fonts/FiraSans-Regular.otf \
-    external/moztt/FiraSans-4.1/FiraSans-SemiBold.otf:system/fonts/FiraSans-SemiBold.otf \
-    external/moztt/FiraSans-4.1/FiraSans-SemiBoldItalic.otf:system/fonts/FiraSans-SemiBoldItalic.otf \
-    external/moztt/FiraSans-4.1/FiraSans-UltraLight.otf:system/fonts/FiraSans-UltraLight.otf \
-    external/moztt/FiraSans-4.1/FiraSans-UltraLightItalic.otf:system/fonts/FiraSans-UltraLightItalic.otf \
+    external/moztt/FiraMono-3.205/FiraMono-Bold.otf:system/fonts/FiraMono-Bold.otf \
+    external/moztt/FiraMono-3.205/FiraMono-Medium.otf:system/fonts/FiraMono-Medium.otf \
+    external/moztt/FiraMono-3.205/FiraMono-Regular.otf:system/fonts/FiraMono-Regular.otf \
+    external/moztt/FiraSans-4.105/FiraSans-Bold.otf:system/fonts/FiraSans-Bold.otf \
+    external/moztt/FiraSans-4.105/FiraSans-BoldItalic.otf:system/fonts/FiraSans-BoldItalic.otf \
+    external/moztt/FiraSans-4.105/FiraSans-ExtraBold.otf:system/fonts/FiraSans-ExtraBold.otf \
+    external/moztt/FiraSans-4.105/FiraSans-ExtraBoldItalic.otf:system/fonts/FiraSans-ExtraBoldItalic.otf \
+    external/moztt/FiraSans-4.105/FiraSans-Hair.otf:system/fonts/FiraSans-Hair.otf \
+    external/moztt/FiraSans-4.105/FiraSans-HairItalic.otf:system/fonts/FiraSans-HairItalic.otf \
+    external/moztt/FiraSans-4.105/FiraSans-Heavy.otf:system/fonts/FiraSans-Heavy.otf \
+    external/moztt/FiraSans-4.105/FiraSans-HeavyItalic.otf:system/fonts/FiraSans-HeavyItalic.otf \
+    external/moztt/FiraSans-4.105/FiraSans-Italic.otf:system/fonts/FiraSans-Italic.otf \
+    external/moztt/FiraSans-4.105/FiraSans-Light.otf:system/fonts/FiraSans-Light.otf \
+    external/moztt/FiraSans-4.105/FiraSans-LightItalic.otf:system/fonts/FiraSans-LightItalic.otf \
+    external/moztt/FiraSans-4.105/FiraSans-Medium.otf:system/fonts/FiraSans-Medium.otf \
+    external/moztt/FiraSans-4.105/FiraSans-MediumItalic.otf:system/fonts/FiraSans-MediumItalic.otf \
+    external/moztt/FiraSans-4.105/FiraSans-Regular.otf:system/fonts/FiraSans-Regular.otf \
+    external/moztt/FiraSans-4.105/FiraSans-SemiBold.otf:system/fonts/FiraSans-SemiBold.otf \
+    external/moztt/FiraSans-4.105/FiraSans-SemiBoldItalic.otf:system/fonts/FiraSans-SemiBoldItalic.otf \
+    external/moztt/FiraSans-4.105/FiraSans-UltraLight.otf:system/fonts/FiraSans-UltraLight.otf \
+    external/moztt/FiraSans-4.105/FiraSans-UltraLightItalic.otf:system/fonts/FiraSans-UltraLightItalic.otf \
     external/moztt/Noto/NotoColorEmoji.ttf:system/fonts/NotoColorEmoji.ttf \
     external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
     external/moztt/Roboto-20120823/Roboto-BoldItalic.ttf:system/fonts/Roboto-BoldItalic.ttf \
@@ -76,20 +76,20 @@ PRODUCT_COPY_FILES += \
 
 # FiraSans faces that we omit because they have weights that are not multiples of 100:
 #
-#    external/moztt/FiraSans-4.1/FiraSans-Book.otf:system/fonts/FiraSans-Book.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-BookItalic.otf:system/fonts/FiraSans-BookItalic.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-Eight.otf:system/fonts/FiraSans-Eight.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-EightItalic.otf:system/fonts/FiraSans-EightItalic.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-ExtraLight.otf:system/fonts/FiraSans-ExtraLight.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-ExtraLightItalic.otf:system/fonts/FiraSans-ExtraLightItalic.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-Four.otf:system/fonts/FiraSans-Four.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-FourItalic.otf:system/fonts/FiraSans-FourItalic.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-Thin.otf:system/fonts/FiraSans-Thin.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-ThinItalic.otf:system/fonts/FiraSans-ThinItalic.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-Two.otf:system/fonts/FiraSans-Two.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-TwoItalic.otf:system/fonts/FiraSans-TwoItalic.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-Ultra.otf:system/fonts/FiraSans-Ultra.otf \
-#    external/moztt/FiraSans-4.1/FiraSans-UltraItalic.otf:system/fonts/FiraSans-UltraItalic.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-Book.otf:system/fonts/FiraSans-Book.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-BookItalic.otf:system/fonts/FiraSans-BookItalic.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-Eight.otf:system/fonts/FiraSans-Eight.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-EightItalic.otf:system/fonts/FiraSans-EightItalic.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-ExtraLight.otf:system/fonts/FiraSans-ExtraLight.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-ExtraLightItalic.otf:system/fonts/FiraSans-ExtraLightItalic.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-Four.otf:system/fonts/FiraSans-Four.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-FourItalic.otf:system/fonts/FiraSans-FourItalic.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-Thin.otf:system/fonts/FiraSans-Thin.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-ThinItalic.otf:system/fonts/FiraSans-ThinItalic.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-Two.otf:system/fonts/FiraSans-Two.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-TwoItalic.otf:system/fonts/FiraSans-TwoItalic.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-Ultra.otf:system/fonts/FiraSans-Ultra.otf \
+#    external/moztt/FiraSans-4.105/FiraSans-UltraItalic.otf:system/fonts/FiraSans-UltraItalic.otf \
 #    $(NULL)
 
 # MozTT fonts that we ship in .woff form when ROM size is at a premium.
