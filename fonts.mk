@@ -67,7 +67,7 @@ PRODUCT_COPY_FILES += \
     external/moztt/FiraSans-4.106/FiraSans-SemiBoldItalic.otf:system/fonts/FiraSans-SemiBoldItalic.otf \
     external/moztt/FiraSans-4.106/FiraSans-UltraLight.otf:system/fonts/FiraSans-UltraLight.otf \
     external/moztt/FiraSans-4.106/FiraSans-UltraLightItalic.otf:system/fonts/FiraSans-UltraLightItalic.otf \
-    external/moztt/FirefoxEmoji-1.6.1/FirefoxEmoji.ttf:system/fonts/FirefoxEmoji.ttf \
+    external/moztt/FirefoxEmoji-1.6.2/FirefoxEmoji.ttf:system/fonts/FirefoxEmoji.ttf \
     external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
     external/moztt/Roboto-20120823/Roboto-BoldItalic.ttf:system/fonts/Roboto-BoldItalic.ttf \
     external/moztt/Roboto-20120823/Roboto-Italic.ttf:system/fonts/Roboto-Italic.ttf \
