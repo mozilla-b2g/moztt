@@ -67,24 +67,6 @@ PRODUCT_COPY_FILES += \
     external/moztt/FiraSans-4.107/FiraSans-SemiBoldItalic.otf:system/fonts/FiraSans-SemiBoldItalic.otf \
     external/moztt/FiraSans-4.107/FiraSans-UltraLight.otf:system/fonts/FiraSans-UltraLight.otf \
     external/moztt/FiraSans-4.107/FiraSans-UltraLightItalic.otf:system/fonts/FiraSans-UltraLightItalic.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-Bold.otf:system/fonts/FiraSansCondensed-Bold.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-BoldItalic.otf:system/fonts/FiraSansCondensed-BoldItalic.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-ExtraBold.otf:system/fonts/FiraSansCondensed-ExtraBold.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-ExtraBoldItalic.otf:system/fonts/FiraSansCondensed-ExtraBoldItalic.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-Hair.otf:system/fonts/FiraSansCondensed-Hair.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-HairItalic.otf:system/fonts/FiraSansCondensed-HairItalic.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-Heavy.otf:system/fonts/FiraSansCondensed-Heavy.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-HeavyItalic.otf:system/fonts/FiraSansCondensed-HeavyItalic.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-Italic.otf:system/fonts/FiraSansCondensed-Italic.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-Light.otf:system/fonts/FiraSansCondensed-Light.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-LightItalic.otf:system/fonts/FiraSansCondensed-LightItalic.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-Medium.otf:system/fonts/FiraSansCondensed-Medium.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-MediumItalic.otf:system/fonts/FiraSansCondensed-MediumItalic.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-Regular.otf:system/fonts/FiraSansCondensed-Regular.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-SemiBold.otf:system/fonts/FiraSansCondensed-SemiBold.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-SemiBoldItalic.otf:system/fonts/FiraSansCondensed-SemiBoldItalic.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-UltraLight.otf:system/fonts/FiraSansCondensed-UltraLight.otf \
-    external/moztt/FiraSans-4.107/FiraSansCondensed-UltraLightItalic.otf:system/fonts/FiraSansCondensed-UltraLightItalic.otf \
     external/moztt/FirefoxEmoji-1.6.7/FirefoxEmoji.ttf:system/fonts/FirefoxEmoji.ttf \
     external/moztt/Roboto-20120823/Roboto-Bold.ttf:system/fonts/Roboto-Bold.ttf \
     external/moztt/Roboto-20120823/Roboto-BoldItalic.ttf:system/fonts/Roboto-BoldItalic.ttf \
@@ -108,20 +90,6 @@ PRODUCT_COPY_FILES += \
 #    external/moztt/FiraSans-4.107/FiraSans-TwoItalic.otf:system/fonts/FiraSans-TwoItalic.otf \
 #    external/moztt/FiraSans-4.107/FiraSans-Ultra.otf:system/fonts/FiraSans-Ultra.otf \
 #    external/moztt/FiraSans-4.107/FiraSans-UltraItalic.otf:system/fonts/FiraSans-UltraItalic.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-Book.otf:system/fonts/FiraSansCondensed-Book.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-BookItalic.otf:system/fonts/FiraSansCondensed-BookItalic.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-Eight.otf:system/fonts/FiraSansCondensed-Eight.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-EightItalic.otf:system/fonts/FiraSansCondensed-EightItalic.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-ExtraLight.otf:system/fonts/FiraSansCondensed-ExtraLight.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-ExtraLightItalic.otf:system/fonts/FiraSansCondensed-ExtraLightItalic.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-Four.otf:system/fonts/FiraSansCondensed-Four.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-FourItalic.otf:system/fonts/FiraSansCondensed-FourItalic.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-Thin.otf:system/fonts/FiraSansCondensed-Thin.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-ThinItalic.otf:system/fonts/FiraSansCondensed-ThinItalic.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-Two.otf:system/fonts/FiraSansCondensed-Two.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-TwoItalic.otf:system/fonts/FiraSansCondensed-TwoItalic.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-Ultra.otf:system/fonts/FiraSansCondensed-Ultra.otf \
-#    external/moztt/FiraSans-4.107/FiraSansCondensed-UltraItalic.otf:system/fonts/FiraSansCondensed-UltraItalic.otf \
 #    $(NULL)
 
 # MozTT fonts that we ship in .woff form when ROM size is at a premium.
