@@ -90,6 +90,8 @@ PRODUCT_COPY_FILES += \
     external/moztt/Roboto-20120823/Roboto-BoldItalic.ttf:system/fonts/Roboto-BoldItalic.ttf \
     external/moztt/Roboto-20120823/Roboto-Italic.ttf:system/fonts/Roboto-Italic.ttf \
     external/moztt/Roboto-20120823/Roboto-Regular.ttf:system/fonts/Roboto-Regular.ttf \
+    external/moztt/naver-fonts/NanumGothic.ttf:system/fonts/NanumGothic.ttf \
+    external/moztt/naver-fonts/NanumGothicBold.ttf:system/fonts/NanumGothicBold.ttf \
     $(NULL)
 
 # FiraSans faces that we omit because they have weights that are not multiples of 100:
